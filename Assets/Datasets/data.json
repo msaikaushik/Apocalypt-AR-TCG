@@ -1,0 +1,33 @@
+{
+    "attacks": [
+        {
+            "name": "tackle",
+            "damage": 20,
+            "cost": 10
+        },
+        {
+            "name": "plague punch",
+            "damage": 35,
+            "cost": 20
+        },
+        {
+            "name":"fire breath",
+            "damage": 50,
+            "cost": 45
+        }
+    ],
+    "items": [
+        {
+            "name": "health potion",
+            "stat": "hp",
+            "effect": "add",
+            "amount": 30
+        },
+        {
+            "name": "mana potion",
+            "stat": "mana",
+            "effect": "add",
+            "amount": 80
+        }
+    ]
+}

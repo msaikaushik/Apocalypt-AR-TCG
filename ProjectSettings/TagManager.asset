@@ -3,7 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Player1
+  - player detail bar
+  - Player2
+  - a1
+  - a2
+  - a3
+  - i1
+  - i2
+  - i3
+  - battleMenu
+  - fightMenu
+  - itemMenu
   layers:
   - Default
   - TransparentFX
